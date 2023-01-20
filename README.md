@@ -1,4 +1,4 @@
-### Hi there 👋
+### KIM MIN SU 😄
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=km6293)](https://github.com/km6293/github-readme-stats)
 
 <!--
