@@ -4,7 +4,7 @@
   I live on Seoul, Korea
 </p>
   <a href="mailto:km1873045158@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:km1873045158@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:alstn7616@naver.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
 
