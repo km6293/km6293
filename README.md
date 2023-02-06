@@ -3,9 +3,7 @@
 <p align='center'>
   I live on Seoul, Korea
 </p>
-
   <a href="mailto:km1873045158@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 
