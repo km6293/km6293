@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinsuKim&fontSize=90" />
+
 <h1 align='center'> Hi there 👋, I'm Minsu Kim </h1>
 
 <p align='center'>
