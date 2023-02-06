@@ -17,14 +17,15 @@
 
 <h5> Frontend</h5>
 <p >
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;   
 </p>
 
 <h4> 🌱 I’m currently learning ... </h4>
 <p >
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  
+  <img src="https://img.shields.io/badge/Node.js%20-%234FC08D.svg?&style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <!--
 
